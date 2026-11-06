@@ -97,6 +97,7 @@ export default function SpaceOps() {
                 <option value="Reconnaissance">Reconnaissance</option>
                 <option value="Navigation">Navigation</option>
                 <option value="Weather">Weather</option>
+                <option value="MissileWarning">Missile Warning</option>
               </select>
 
               <br />
